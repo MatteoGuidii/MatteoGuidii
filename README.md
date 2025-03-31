@@ -1,15 +1,44 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<!-- README for GitHub Profile -->
+<!-- Replace MatteoGuidii with your actual GitHub username, if needed -->
 
-# Hello World! I'm Matteo Guidi, a Software Developer & CS Student from Toronto, ON 👋
-- 🏦 **Currently** working as a Software Developer at RBC  
-- 🎓 **Pursuing** a B.Sc. (Honours) in Computer Science (Co-op) at Toronto Metropolitan University (Expected 2027)  
-- 🔬 **Involved** in TMU WAVE (Underwater Robotics) & TMAV (Aerial Vehicles) clubs  
-- ✅ **Certifications**: Microsoft Certified (Azure AI Fundamentals & Power Platform Fundamentals)  
-- 🏆 **Dean's List 2023–2024** for academic excellence  
+<div align="center">
+  
+  <!-- Your Logo (ensure this file path is correct in your repo) -->
+  <img src="assets/logo.png" alt="Matteo Guidi Logo"/>
 
-<br/>
+  <!-- Introduction / Headline -->
+  <h1>Hi 👋, I'm Matteo Guidi — Software Developer & CS Student from Toronto</h1>
 
-# 💻 Tech Stack:
+  <!-- Quick Links with Badges -->
+  <p>
+    <a href="mailto:matteo.guidi@torontomu.ca">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://www.linkedin.com/in/matteoguidii/">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/MatteoGuidii">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://devpost.com/matteo-guidi">
+      <img src="https://img.shields.io/badge/Devpost-00457C.svg?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost"/>
+    </a>
+  </p>
+</div>
+
+---
+
+## 🔎 About Me
+- **🏦 Currently** working as a **Software Developer at RBC**  
+- **🎓 Pursuing** a **B.Sc. (Honours) in Computer Science (Co-op)** at **Toronto Metropolitan University** (Expected 2027)  
+- **🔬 Active Member** of **TMU WAVE (Underwater Robotics)** & **TMAV (Aerial Vehicles)**  
+- **✅ Certifications**: *Microsoft Certified (Azure AI Fundamentals & Power Platform Fundamentals)*  
+- **🏆 Dean's List 2023–2024** for academic excellence  
+
+---
+
+## 💻 Tech Stack
+
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -38,10 +67,12 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-<br/>
+---
+
+## 🎯 GitHub Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatteoGuidii/MatteoGuidii/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatteoGuidii/MatteoGuidii/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/MatteoGuidii/MatteoGuidii/output/github-snake.svg" />
 </picture>
