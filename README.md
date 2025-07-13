@@ -31,9 +31,9 @@
 ## 🔎 About Me
 - **🏦 Currently** working as a **Software Developer at RBC** (Helios Engineering – DevOps Team)
 - **🎓 Pursuing** a **B.Sc. (Honours) in Computer Science (Co-op)** at **Toronto Metropolitan University** (Expected 2027)  
-<!-- - **🔬 Active Member** of **TMU WAVE (Underwater Robotics)** & **TMAV (Aerial Vehicles)** -->
 - **✅ Certifications**: *Microsoft Certified (Azure AI Fundamentals & Power Platform Fundamentals)*  
 - **🏆 Dean's List 2023–2024** for academic excellence  
+<!-- - **🔬 Active Member** of **TMU WAVE (Underwater Robotics)** & **TMAV (Aerial Vehicles)** -->
 
 ---
 
