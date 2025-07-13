@@ -4,10 +4,10 @@
 <div align="center">
   
   <!-- Your Logo (ensure this file path is correct in your repo) -->
-  <img src="assets/logo.png" alt="Matteo Guidi Logo"/>
+  <!-- <img src="assets/logo.png" alt="Matteo Guidi Logo"/> -->
 
   <!-- Introduction / Headline -->
-  <h1>Hi 👋, I'm Matteo Guidi — Software Developer & CS Student based in Toronto</h1>
+  <h1>Hi 👋, I'm Matteo Guidi - Software Developer & CS Student based in Toronto</h1>
 
   <!-- Quick Links with Badges -->
   <p>
