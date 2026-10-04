@@ -29,7 +29,7 @@
 ---
 
 ## 🔎 About Me
-- **🏦 Software Developer at Amplify (RBC)** 
+- **🏦 ex Software Developer at Amplify (RBC)** 
 - **🎓 Pursuing** a **B.Sc. (Honours) in Computer Science (Co-op)** at **Toronto Metropolitan University** (Expected 2027)  
 - **✅ Certifications**: *Microsoft Certified (Azure AI Fundamentals & Power Platform Fundamentals)*  
 - **🏆 Dean's List 2023–2024 and 2025-2026** for academic excellence  
